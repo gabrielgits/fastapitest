@@ -17,4 +17,4 @@ app.include_router(article_router)
 
 @app.get("/")
 def read_root():
-    return {"Hello": "Hey Adalberto, how are you?"} 
+    return {"Hello": "Hey Gabriel, how are you?"} 
